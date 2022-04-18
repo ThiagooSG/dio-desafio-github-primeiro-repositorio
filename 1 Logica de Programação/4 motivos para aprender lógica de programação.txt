@@ -1,0 +1,59 @@
+4 motivos para você entender muito de lógica de programação
+Você já viu alguém escrever um texto sem saber ler?
+
+Não né?! Crianças em fase de pré-alfabetização até tentam escrever sem saber ler. Elas rabiscam as formas das letras no papel, mas para elas o resultado do traçado é apenas uma junção de vogais e consoantes, sem nenhum sentido ou significado.
+
+Querer aprender a programar sem conhecer Lógica de Programação é fazer igual a estas pequenas crianças. Não fará sentido para você a junção de algoritmos, variáveis, e constantes. Você não saberá interpretar o que eles dizem.
+
+Existe uma máxima no mundo da programação que diz: você pode saber lógica sem programar, mas jamais vai programar sem saber lógica. E esta frase é corretíssima.
+
+Sem conhecer Lógica de Programação você não saberá os caminhos a seguir, e não conseguirá interpretar os dados necessários para criar programas, produtos e soluções sem enfrentar os temidos problemas de execução.
+
+Então, se você deseja se tornar programador de softwares, comece aprendendo tudo sobre Lógica de Programação. E se você não acredita que este é o melhor caminho, confira o depoimento do Daniel Vieira, que tentou iniciar na carreira sem antes aprender lógica e enfrentou muita, muita dificuldade.
+
+“Eu queria trabalhar com programação de softwares e depois de ler vários artigos sobre o tema achei que poderia aprender sem conhecer lógica de programação. Baixei várias apostilas de PHP e Java (as linguagens mais indicadas para iniciantes) e comecei a estudar, mas, quando fui partir para a prática não consegui. Estudei mais de dois meses, aprendi os comandos, mas não sabia ao certo como usá-los, pois não entendia a lógica da coisa. Foi somente depois de estudar, e muito, sobre lógica de programação que as coisas começaram a fazer sentido para mim”.
+
+E se você já ouviu aquele provérbio chinês “os sábios aprendem com os erros dos outros, os tolos com os próprios erros e os idiotas não aprendem nunca”, então você pode aproveitar a história do Daniel para se tornar um sábio programador e começar a sua carreira estudando tudo, tudo mesmo, sobre Lógica de Programação.
+
+E se até aqui você ainda não compreendeu a importância de aprender Lógica de Programação, separamos 4 motivos que vão incentivar você a investir nessa área de conhecimento.
+
+ 
+
+1 – Quem não aprender a programar será programado
+A programação é uma das habilidades do século 21, e de acordo com os principais especialistas em novas tecnologias, adquirir conhecimentos sobre programação deveria ser tão importante quanto saber ler ou escrever.
+
+Nosso mundo está repleto de tecnologia, e por isso é tão importante saber codificar, não só para quem deseja se tornar um programador, mas para todos, para que possam ver o mundo de novas maneiras pois, nesta era tecnológica quem não aprender a programar será programado.
+
+Pesquisas apontam que apenas 0,5% dos adultos são responsáveis por criar programas, enquanto os outros 99,5% são simplesmente usuários destes programas.
+
+ 
+
+Conheça o curso de Lógica de Programação da Apex >>
+
+ 
+
+2 – Saber programar é saber pensar
+O aprendizado de programação estimula a criatividade, a autonomia e desenvolve o raciocínio lógico e a capacidade de resolução de problemas.
+
+E é por isso que especialistas das mais variadas áreas defendem o ensino da Lógica de Programação nas escolas.
+
+Através deste conhecimento, crianças e jovens aprendem a desenvolver sua criatividade e sua capacidade de lidar com problemas, pois têm a oportunidade de colocar em prática uma série de teorias que são ensinadas em outras disciplinas, como física, matemática e química, por exemplo.
+
+ 
+
+3 – Quem souber Lógica de Programação terá voz ativa na sociedade do século 21
+A importância de conhecer Lógica de programação não é apenas uma questão prática, mas algo essencial para quem deseja ter voz ativa e participar plenamente da sociedade.
+
+Na nova era digital que estamos vivendo, não basta sabe usar ou interagir com as tecnologias, é preciso ser fluente nelas.
+
+Hoje, a maioria das pessoas sabe navegar e utilizar aplicativos, mas não sabe projetar, criar ou se expressar através destas tecnologias. Quem aprender Lógica de programação saberá isso e muito mais.
+
+ 
+
+4 – Há muitas oportunidades de trabalho para quem entende de programação
+A área de Tecnologia da informação é uma das que mais cresce no mundo, afinal, em praticamente tudo o que se cria existem softwares de programação.
+
+Segundo a IDC, empresa líder em inteligência de mercado e consultoria nas indústrias de tecnologia da informação, o Brasil é o 4° maior centro de TI do mundo, e por isso aqui sobram vagas para quem deseja trabalhar com programação de softwares, e para iniciar na carreira é preciso começar aprendendo o que? Lógica de Programação!
+Então, se você deseja iniciar em uma promissora carreira, comece tornando-se um especialista em Lógica de Programação, e boa sorte!
+
+fonte https://apexensino.com.br/4-razoes-para-voce-entender-de-logica-de-programacao/
